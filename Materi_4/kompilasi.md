@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b026fc50-6bfb-438d-b818-53eeec44748d)# Pemeliharaan Basis Data dan Penggunaan Index
+# Pemeliharaan Basis Data dan Penggunaan Index
 
 ## Latar Belakang
 Dalam pengelolaan basis data, performa menjadi aspek yang sangat penting. Seiring bertambahnya jumlah data dalam tabel, pencarian dan manipulasi data dapat menjadi lambat jika tidak dikelola dengan baik. Salah satu cara untuk meningkatkan performa basis data adalah dengan menggunakan indeks.
