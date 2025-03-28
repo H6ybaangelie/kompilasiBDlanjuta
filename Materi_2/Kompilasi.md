@@ -52,10 +52,11 @@ Dalam dunia pengolahan data, pemahaman akan database relational dan unrelational
 8. Masuk ke mysql dengan port yang baru 3309.
    ![image](https://github.com/user-attachments/assets/a5a7e4e0-31b1-4c63-b0f3-3de13c488b4c)
 9. Check port terbaru.
+
    ![image](https://github.com/user-attachments/assets/9b9268f4-8ae2-4759-8877-042935eec89e)
-10. Check innodb_buffer_pool_size baru.
+11. Check innodb_buffer_pool_size baru.
    ![image](https://github.com/user-attachments/assets/63d0d299-401b-428d-8c8e-69075dac8939)
-11. Buat database baru, (kelompok_1).
+12. Buat database baru, (kelompok_1).
    ![image](https://github.com/user-attachments/assets/fcf02738-2659-45c0-8235-1cc7e1a5ec80)
 
 ## Pembahasan
